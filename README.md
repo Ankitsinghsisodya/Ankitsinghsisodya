@@ -3,7 +3,7 @@
 ## 📊 GitHub Stats
 
 <span>
-<a href="https://github.com/Ankit-singh-sisodya">
+<a href="https://github.com/Ankitsinghsisodya">
 <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Ankitsinghsisodya&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="Ankit's Github Top Languages" />
 <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Ankitsinghsisodya&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Ankit Singh Sisodya Github Stats" />
 </a>
