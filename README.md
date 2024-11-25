@@ -4,8 +4,8 @@
 
 <span>
 <a href="https://github.com/Ankitsinghsisodya">
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Ankitsinghsisodya&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="Ankit's Github Top Languages" />
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Ankitsinghsisodya&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Ankit Singh Sisodya Github Stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsinghsisodya&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Ankit's Github Top Languages" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Ankitsinghsisodya&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Ankit Singh Sisodya Github Stats" />
 </a>
 </span>
 
@@ -17,8 +17,8 @@
 <a href="https://codeforces.com/profile/Ankit_singh_sisodya">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Ankit_singh_sisodya&theme=github_dark&force_username=true&border_color=404040" alt="Ankit Singh Sisodya Codeforces stats"/>
 </a>
-<a href="https://leetcode.com/u/Ankitsisodya/">
-<img height="316" src="https://leetcard.jacoblin.cool/Ankitsisodya?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/Ankitsisodya/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Ankitsisodya Leetcode Stats"/>
+<a href="https://leetcode.com/Ankitsisodya/">
+<img height="316" src="https://leetcard.jacoblin.cool/Ankitsisodya?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Ankitsisodya Leetcode Stats"/>
 </a>
 </span>
 
