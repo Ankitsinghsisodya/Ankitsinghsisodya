@@ -17,7 +17,7 @@
 <a href="https://codeforces.com/profile/Ankit_singh_sisodya">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Ankit_singh_sisodya&theme=github_dark&force_username=true&border_color=404040" alt="Ankit Singh Sisodya Codeforces stats"/>
 </a>
-<a href="https://leetcode.com/Ankitsisodya/">
+<a href="https://leetcode.com/u/Ankit_singh_sisodya/">
 <img height="316" src="https://leetcard.jacoblin.cool/Ankitsisodya?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Ankitsisodya Leetcode Stats"/>
 </a>
 </span>
