@@ -2,6 +2,10 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saquibjawedbit&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+
 <span>
 <a href="https://github.com/Ankitsinghsisodya">
 <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsinghsisodya&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Ankit's Github Top Languages" />
