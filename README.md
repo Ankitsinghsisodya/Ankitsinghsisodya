@@ -1,4 +1,4 @@
-# Ankit Singh Sisodya's Profile
+# Ankit Sisodya's Profile
 
 ## 📊 GitHub Stats
 
