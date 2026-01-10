@@ -1,51 +1,27 @@
-# Ankit Sisodya's Profile
+Expert @Codeforces, 5★ @CodeChef, Guardian @LeetCode, Open Source Contributor.
 
-## 📊 GitHub Stats
+[![Twitter Badge](https://img.shields.io/badge/-@Ankit_Sisodya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/Ankit_Sisodya)](https://x.com/Ankit_Sisodya) [![Linkedin Badge](https://img.shields.io/badge/-ankitsisodya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sisodya/)](https://www.linkedin.com/in/ankit-sisodya/) [![Codeforces Badge](<https://img.shields.io/badge/-Expert%20(1776)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/Ankit_singh_sisodya>)](https://codeforces.com/profile/Ankit_singh_sisodya) [![LeetCode Badge](<https://img.shields.io/badge/-Guardian%20(2216)-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/Ankit_singh_sisodya/>)](https://leetcode.com/u/Ankit_singh_sisodya/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankitsinghsisodya&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
+### proof of work
 
-<span>
-<a href="https://github.com/Ankitsinghsisodya">
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsinghsisodya&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Ankit's Github Top Languages" />
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Ankitsinghsisodya&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Ankit Singh Sisodya Github Stats" />
-</a>
-</span>
+[OmegaUp](https://github.com/omegaup/omegaup):
 
----
+1. [commits](https://github.com/omegaup/omegaup/pulls?q=is%3Amerged+is%3Apr+author%3AAnkitsinghsisodya) - Free competitive programming platform for education. Contributed 24+ merged PRs across Backend, Frontend, & DevOps. _PHP/Vue.js/TypeScript_.
 
-## 📈 Coding Profiles
+IEEE BIT Mesra:
 
-<span>
-<a href="https://codeforces.com/profile/Ankit_singh_sisodya">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Ankit_singh_sisodya&theme=github_dark&force_username=true&border_color=404040" alt="Ankit Singh Sisodya Codeforces stats"/>
-</a>
-<a href="https://leetcode.com/u/Ankit_singh_sisodya/">
-<img height="316" src="https://leetcard.jacoblin.cool/Ankit_singh_sisodya?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Ankitsisodya Leetcode Stats"/>
-</a>
-</span>
+1. [IEEE Website](https://github.com/Ankitsinghsisodya/IEEE-BIT-Mesra) - Full-stack platform with 1000+ active users featuring a leaderboard integrating Codeforces, LeetCode, and CodeChef APIs. _React/Node.js_.
 
----
+[BITAcademia](https://github.com/BitWebApp/BitWebApp-24):
 
-## 🧩 Technologies Worked With
+1. [commits](https://github.com/BitWebApp/BitWebApp-24/commits/main/?author=Ankitsinghsisodya) - Official academic platform for BIT Mesra to streamline academic management for students, faculty, and administration. _Internship_.
 
-<p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=Java&logoColor=white">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwind-css&logoColor=white">
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59.svg?logo=express&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-</p>
+Freelance:
+
+1. [Adventure Booking Platform](https://github.com/Adnan2k5/Booking-Web/commits?author=Ankitsinghsisodya) - Gamification system for instructor achievements with PayPal integration and centralized error handling. [Live](https://booking-web-bay.vercel.app/). _React/Express/Redis_.
+
+Personal:
+
+1. [GSoC Espionage](https://github.com/Ankitsinghsisodya/Gsoc-espionage) - GitHub PR analytics app with merge rates, contributor stats, and activity timelines. Features branch filtering, data exports, and theme support. _React/TypeScript_.
+2. [SlotSwapper](https://github.com/Ankitsinghsisodya/SlotSwapper) - Collaborative calendar application for real-time schedule management and atomic slot swapping with WebSocket notifications. _React/Node.js_.
+3. [Test Case Generator](https://github.com/Ankitsinghsisodya/Test-Case-Generator) - AI-powered SaaS using Gemini API to automate test case generation with Razorpay subscription handling. _React/Express_.
