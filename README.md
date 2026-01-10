@@ -6,15 +6,15 @@ Expert @Codeforces, 5★ @CodeChef, Guardian @LeetCode, Open Source Contributor.
 
 Open Source
 
-  [OmegaUp](https://github.com/omegaup/omegaup): Free competitive programming platform for education. Contributed 24+ merged PRs across Backend, Frontend, & DevOps. _PHP/Vue.js/TypeScript_.
+1. [OmegaUp](https://github.com/omegaup/omegaup): Free competitive programming platform for education. Contributed 24+ merged PRs across Backend, Frontend, & DevOps. _PHP/Vue.js/TypeScript_.
 
 Volunteering 
 
-  [IEEE BIT Mesra](https://github.com/Ankitsinghsisodya/IEEE-BIT-Mesra): Worked on official website for IEEE Student Branch at BIT Mesra with 1000+ active users and made a leaderboard integrating Codeforces, LeetCode, and CodeChef APIs.
+1. [IEEE BIT Mesra](https://github.com/Ankitsinghsisodya/IEEE-BIT-Mesra): Worked on official website for IEEE Student Branch at BIT Mesra with 1000+ active users and made a leaderboard integrating Codeforces, LeetCode, and CodeChef APIs.
 
 Internships 
 
-  [BITAcademia](https://github.com/BitWebApp/BitWebApp-24): Official academic platform for BIT Mesra to streamline academic management for students, faculty, and administration. 
+1. [BITAcademia](https://github.com/BitWebApp/BitWebApp-24): Official academic platform for BIT Mesra to streamline academic management for students, faculty, and administration. 
 
 Freelance:
 
