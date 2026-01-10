@@ -10,18 +10,18 @@ Open Source
 
 Volunteering 
 
-IEEE BIT Mesra(https://github.com/Ankitsinghsisodya/IEEE-BIT-Mesra) : Worked on official website for IEEE Student Branch at BIT Mesra with 1000+ active users and made a leaderboard integrating Codeforces, LeetCode, and CodeChef APIs. _React/Node.js_.
+[IEEE BIT Mesra](https://github.com/Ankitsinghsisodya/IEEE-BIT-Mesra): Worked on official website for IEEE Student Branch at BIT Mesra with 1000+ active users and made a leaderboard integrating Codeforces, LeetCode, and CodeChef APIs.
 
 Internships 
 
-[BITAcademia](https://github.com/BitWebApp/BitWebApp-24): Official academic platform for BIT Mesra to streamline academic management for students, faculty, and administration. _Internship_.
+[BITAcademia](https://github.com/BitWebApp/BitWebApp-24): Official academic platform for BIT Mesra to streamline academic management for students, faculty, and administration. 
 
 Freelance:
 
-1. [Booking-Web](https://github.com/Adnan2k5/Booking-Web) - Fullstack adventure booking and management platform with automated payouts, real-time chat, and multi-language support. [Live](https://booking-web-bay.vercel.app/). _React/Express/Redis_.
+1. [Booking-Web](https://github.com/Adnan2k5/Booking-Web) - Fullstack adventure booking and management platform with automated payouts, real-time chat, and multi-language support. 
 
 Personal:
 
-1. [GSoC Espionage](https://github.com/Ankitsinghsisodya/Gsoc-espionage) - GitHub PR analytics app with merge rates, contributor stats, and activity timelines. Features branch filtering, data exports, and theme support. _React/TypeScript_.
-2. [SlotSwapper](https://github.com/Ankitsinghsisodya/SlotSwapper) - Collaborative calendar application for real-time schedule management and atomic slot swapping with WebSocket notifications. _React/Node.js_.
-3. [Test Case Generator](https://github.com/Ankitsinghsisodya/Test-Case-Generator) - AI-powered SaaS using Gemini API to automate test case generation with Razorpay subscription handling. _React/Express_.
+1. [GSoC Espionage](https://github.com/Ankitsinghsisodya/Gsoc-espionage) - GitHub PR analytics app with merge rates, contributor stats, and activity timelines. Features branch filtering, data exports, and theme support.
+2. [SlotSwapper](https://github.com/Ankitsinghsisodya/SlotSwapper) - Collaborative calendar application for real-time schedule management and atomic slot swapping with WebSocket notifications.
+3. [Test Case Generator](https://github.com/Ankitsinghsisodya/Test-Case-Generator) - AI-powered SaaS to automate test case generation with Razorpay subscription handling. 
