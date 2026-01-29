@@ -8,7 +8,7 @@ Open Source
 
 1. [OmegaUp](https://github.com/omegaup/omegaup): Free competitive programming platform for education. Have 30+ merged PRs across Backend, Frontend, & DevOps. _PHP/Vue.js/TypeScript_.
 
-   Best Works
+   ## Best Works
          - Engineered a full-stack User Comparison module (PHP/Vue.js) with Nginx routing and TypeScript bindings. Enabled side-by-side profile analytics with shareable URL states,                validated by comprehensive PHPUnit testing.
          - Modernized the global notification system, migrating from legacy jQuery to a scalable Vue.js architecture. Replaced brittle DOM manipulation with reactive Vuex state                    management to improve performance and maintainability.
 
