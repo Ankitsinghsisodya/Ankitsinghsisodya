@@ -28,4 +28,3 @@ Expert @Codeforces, 5★ @CodeChef, Guardian @LeetCode, Open Source Contributor.
 
 1.  **[GSoC Espionage](https://github.com/Ankitsinghsisodya/Gsoc-espionage)**: GitHub PR analytics app with merge rates, contributor stats, and activity timelines. Features branch filtering, data exports, and theme support.
 2.  **[SlotSwapper](https://github.com/Ankitsinghsisodya/SlotSwapper)**: Collaborative calendar application for real-time schedule management and atomic slot swapping with WebSocket notifications.
-3.  **[Test Case Generator](https://github.com/Ankitsinghsisodya/Test-Case-Generator)**: AI-powered SaaS to automate test case generation with Razorpay subscription handling.
