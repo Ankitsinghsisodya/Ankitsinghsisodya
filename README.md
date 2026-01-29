@@ -22,7 +22,7 @@ Expert @Codeforces, 5★ @CodeChef, Guardian @LeetCode, Open Source Contributor.
 
 **Volunteering**
 
-1.  **[IEEE BIT Mesra](https://github.com/Ankitsinghsisodya/IEEE-BIT-Mesra)**: Worked on official website for IEEE Student Branch at BIT Mesra with 1000+ active users and made a leaderboard integrating Codeforces, LeetCode, and CodeChef APIs.
+1.  **[IEEE BIT Mesra](https://www.ieeebitmesra.in/)**: Worked on official website for IEEE Student Branch at BIT Mesra with 1000+ active users and made a leaderboard integrating Codeforces, LeetCode, and CodeChef APIs.
 
 **Personal**
 
