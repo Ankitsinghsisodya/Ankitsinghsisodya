@@ -6,7 +6,7 @@ Expert @Codeforces, 5★ @CodeChef, Guardian @LeetCode, Open Source Contributor.
 
 **Open Source**
 
-1.  **[OmegaUp](https://github.com/omegaup/omegaup)**: Free competitive programming platform for education. Have 30+ merged PRs across Backend, Frontend, & DevOps. _PHP/Vue.js/TypeScript_.
+1.  **[OmegaUp](https://github.com/omegaup/omegaup)**: Free competitive programming platform for education. Have 38+ merged PRs across Backend, Frontend, & DevOps. _PHP/Vue.js/TypeScript_.
     * **Key Contributions:**
         * Engineered a [full-stack User Comparison module](https://github.com/omegaup/omegaup/pull/8678).
         * Modernized the [global notification system](https://github.com/omegaup/omegaup/pull/8670).
