@@ -10,6 +10,7 @@ Expert @Codeforces, 5★ @CodeChef, Guardian @LeetCode, Open Source Contributor.
     * **Key Contributions:**
         * Engineered a [full-stack User Comparison module](https://github.com/omegaup/omegaup/pull/8678).
         * Modernized the [global notification system](https://github.com/omegaup/omegaup/pull/8670).
+        * Shipped [User's Profile Statistics feature](https://github.com/omegaup/omegaup/pull/8712)
 
 **Internships**
 
