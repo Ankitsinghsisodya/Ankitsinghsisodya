@@ -27,5 +27,5 @@ Expert @Codeforces, 5★ @CodeChef, Guardian @LeetCode, Open Source Contributor.
 
 **Personal**
 
-1.  **[GSoC Espionage](https://github.com/Ankitsinghsisodya/Gsoc-espionage)**: GitHub PR analytics app with **2k active users** which show merge rates, contributor stats, and activity timelines about any repo. Features branch filtering, data exports, GSoC 2026 organizations lists, and theme support.
+1.  **[GSoC Espionage](https://github.com/Ankitsinghsisodya/Gsoc-espionage)**: GitHub PR analytics app with **2k+ active users** which show merge rates, contributor stats, and activity timelines about any repo. Features branch filtering, data exports, GSoC 2026 organizations lists, and theme support.
 2.  **[SlotSwapper](https://github.com/Ankitsinghsisodya/SlotSwapper)**: Collaborative calendar application for real-time schedule management and atomic slot swapping with WebSocket notifications.
