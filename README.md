@@ -1,5 +1,7 @@
 **Open Source** 100+ merged PRs, Expert @Codeforces, 5★ @CodeChef, Guardian @LeetCode.
 
+[![Linkedin Badge](https://img.shields.io/badge/-ankitsisodya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-sisodya/)](https://www.linkedin.com/in/ankit-sisodya/) [![Codeforces Badge](https://img.shields.io/badge/-Expert%20(1776)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/Ankit_singh_sisodya)](https://codeforces.com/profile/Ankit_singh_sisodya) [![LeetCode Badge](https://img.shields.io/badge/-Guardian%20(2216)-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/Ankit_singh_sisodya/)](https://leetcode.com/u/Ankit_singh_sisodya/) [![X Badge](https://img.shields.io/badge/@Ankit_Sisodya-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://x.com/Ankit_Sisodya)](https://x.com/Ankit_Sisodya)
+
 ### Works
 
 **Open Source**
