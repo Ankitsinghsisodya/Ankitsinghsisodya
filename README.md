@@ -26,15 +26,6 @@
 1. **[BITAcademia](https://github.com/BitWebApp/BitWebApp-24)**: Official academic platform for BIT Mesra to streamline academic management for students, faculty, and administration.
 2. **[TLE Eliminator](https://www.tle-eliminators.com/)**: DSA mentor resolving 700+ queries in 9 months. Earned "Top Mentor" appreciation for four consecutive weeks.
 
-**Freelance**
-
-1. **[Booking-Web](https://github.com/Adnan2k5/Booking-Web)**: Fullstack adventure booking and management platform with automated payouts, real-time chat, and multi-language support.
-
-**Volunteering**
-
-1. **[IEEE BIT Mesra](https://www.ieeebitmesra.in/)**: Worked on official website for IEEE Student Branch at BIT Mesra with 1000+ active users.
-
 **Personal**
 
 1. **[GSoC Espionage](https://github.com/Ankitsinghsisodya/Gsoc-espionage)**: GitHub PR analytics app with **2k+ active users** which show merge rates, contributor stats, and activity timelines about any repo. Features branch filtering, data exports, GSoC 2026 organizations lists, and theme support.
-2. **[SlotSwapper](https://github.com/Ankitsinghsisodya/SlotSwapper)**: Collaborative calendar application for real-time schedule management and atomic slot swapping with WebSocket notifications.
