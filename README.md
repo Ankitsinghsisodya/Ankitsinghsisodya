@@ -16,6 +16,11 @@
      * Modernized the [global notification system](https://github.com/omegaup/omegaup/pull/8670).
      * Shipped [User's Profile Statistics feature](https://github.com/omegaup/omegaup/pull/8712).
 
+3. **[Knative](https://github.com/knative)**: Have 60+ merged PRs.
+   * **Key Contributions:**
+     * Contributed over 17K+ lines of code.
+     * Led the development and integration of the MCP feature for the func tool.
+
 **Internships**
 
 1. **[BITAcademia](https://github.com/BitWebApp/BitWebApp-24)**: Official academic platform for BIT Mesra to streamline academic management for students, faculty, and administration.
