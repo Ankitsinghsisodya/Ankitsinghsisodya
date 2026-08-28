@@ -16,8 +16,8 @@
      * Modernized the [global notification system](https://github.com/omegaup/omegaup/pull/8670).
      * Shipped [User's Profile Statistics feature](https://github.com/omegaup/omegaup/pull/8712).
 
-3. **[Knative](https://github.com/knative)**: Have 60+ merged PRs.
-     * Contributed over 17K+ lines of code.
+3. **[Knative](https://github.com/knative)**: Have 70+ merged PRs.
+     * Contributed over 22K+ lines of code.
      * Led the development and integration of the MCP feature for the func tool.
 
 **Internships**
